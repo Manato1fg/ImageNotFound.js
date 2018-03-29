@@ -11,7 +11,7 @@ Also If you set your own image<br>
 
 ## Usage
 put imagenotfound.js on your server.
-```
+```html
 <script type="text/javascript" src="path/to/imagenotfound.js"></script>
 <script type="text/javascript">
   //If you wanna use your own image instead of default image.
